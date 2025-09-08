@@ -41,7 +41,9 @@ HashiraPlacements/
 5. Stage and commit the file:
 
 git add README.md
+ 
 git commit -m "Add README file explaining the project"
 
 git push
+
 
