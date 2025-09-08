@@ -20,7 +20,7 @@ javac -cp lib\gson-2.8.9.jar HashiraPlacements.java
 2. Run:
 java -cp ".;lib\gson-2.8.9.jar" HashiraPlacements input1.json
 
-java -cp ".;lib\gson-2.8.9.jar" HashiraPlacements input2.json
+    java -cp ".;lib\gson-2.8.9.jar" HashiraPlacements input2.json
 
 
 4. Outputs are printed to the console.
@@ -44,3 +44,4 @@ git add README.md
 git commit -m "Add README file explaining the project"
 
 git push
+
