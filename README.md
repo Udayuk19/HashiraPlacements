@@ -27,6 +27,7 @@ java -cp ".;lib\gson-2.8.9.jar" HashiraPlacements input1.json
 ## Project Structure
 
 HashiraPlacements/
+
 ├── lib/
 
 │ └── gson-2.8.9.jar
@@ -52,6 +53,7 @@ HashiraPlacements/
    git commit -m "Add README file explaining the project"
 
    git push
+
 
 
 
