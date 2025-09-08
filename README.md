@@ -28,22 +28,30 @@ java -cp ".;lib\gson-2.8.9.jar" HashiraPlacements input1.json
 
 HashiraPlacements/
 ├── lib/
+
 │ └── gson-2.8.9.jar
+
 ├── input1.json
+
 ├── input2.json
+
 ├── HashiraPlacements.java
+
 ├── output1.txt (optional)
+
 ├── output2.txt (optional)
+
 └── README.md
 
 4. After editing, save the file.
 
 5. Stage and commit the file:
 
-git add README.md
+   git add README.md
  
-git commit -m "Add README file explaining the project"
+   git commit -m "Add README file explaining the project"
 
-git push
+   git push
+
 
 
